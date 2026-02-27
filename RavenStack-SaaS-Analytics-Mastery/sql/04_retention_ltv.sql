@@ -1,0 +1,1 @@
+-- TODO: análise de retenção e LTV
